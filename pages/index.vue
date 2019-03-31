@@ -6,7 +6,7 @@
         issa.github.io
       </h1>
       <h2 class="subtitle">
-        My stunning Nuxt.js project
+        My stunning project
       </h2>
       <div class="links">
         <a
